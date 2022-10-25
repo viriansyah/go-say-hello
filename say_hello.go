@@ -9,5 +9,5 @@ func SayHollaa() string {
 }
 
 func SayHollaaa() string {
-	return "asdasdasd"
+	return "asdasdasdasdasdasdasdasdas"
 }
